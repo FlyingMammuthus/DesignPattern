@@ -110,4 +110,7 @@ ConcreteComponent: 具体构件
 Decorator: 抽象装饰类  
 ConcreteDecorator: 具体装饰类  
 
+9. 外观模式  
+
+
 ## 行为型模式
